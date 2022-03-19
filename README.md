@@ -2,7 +2,7 @@
 
 ### WEEK2 
 |주차|분류|문제|알고리즘|코드|
-|---|---|---|---|
+|---|---|---|---|---|
 |WEEK2|HW|영역채우기|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/HW_flood_fill/main.c)|
 |WEEK2|HW|미로방문|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/HW_maze/main.c)|
 |WEEK2|HW|스크린트리|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/HW_screen_tree/main.c)|

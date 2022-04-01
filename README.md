@@ -10,3 +10,10 @@
 |WEEK2|LAB|조합출력(재귀)|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/LAB_comb_count_recur/main.c)|
 |WEEK2|LAB|ECHO|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/LAB_echo/main.c)|
 |WEEK2|LAB|스크린트리|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/LAB_screen_tree/main.c)|
+
+
+
+### WEEK5
+|주차|분류|문제|알고리즘|코드|
+|---|---|---|---|---|
+|WEEK5|LAB|뽑기-공뽑기|조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/LAB_ball_selection_1/main.c)|

@@ -12,6 +12,13 @@
 |WEEK2|LAB|스크린트리|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/LAB_screen_tree/main.c)|
 
 
+### WEEK3 - 탐색/동적할당
+|주차|분류|문제|알고리즘|코드|
+|---|---|---|---|---|
+|WEEK3|LAB|정렬된 순차탐색|탐색|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week3/LAB_Sequential_Search/main.c)|
+|WEEK3|LAB|이진탐색(반복문)|탐색|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week3/LAB_binary_search_loop/main.c)|
+|WEEK3|LAB|이진탐색(재귀)|탐색|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week3/LAB_binary_search_recursion/main.c)|
+|WEEK3|LAB|동적할당을이용한조합개수출력|동적할당|[C](https://github.com/sne12345/ProblemSolvingTechC/tree/main/Week3/LAB_comb_count_dynamic_allo/main.c)|
 
 ### WEEK5 - 뽑기(조합, 중복조합, 순열, 중복순열)
 |주차|분류|문제|알고리즘|코드|

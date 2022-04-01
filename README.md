@@ -1,6 +1,6 @@
 ## 2022-1 문제해결기법 수업 실습코드입니다.
 
-### WEEK2 
+### WEEK2 - 재귀
 |주차|분류|문제|알고리즘|코드|
 |---|---|---|---|---|
 |WEEK2|HW|영역채우기|재귀함수|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week2/HW_flood_fill/main.c)|
@@ -13,7 +13,7 @@
 
 
 
-### WEEK5
+### WEEK5 - 뽑기(조합, 중복조합, 순열, 중복순열)
 |주차|분류|문제|알고리즘|코드|
 |---|---|---|---|---|
 |WEEK5|LAB|뽑기-공뽑기|조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/LAB_ball_selection_1/main.c)|

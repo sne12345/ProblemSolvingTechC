@@ -20,7 +20,13 @@
 |WEEK3|LAB|이진탐색(재귀)|탐색|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week3/LAB_binary_search_recursion/main.c)|
 |WEEK3|LAB|동적할당을이용한조합개수출력|동적할당|[C](https://github.com/sne12345/ProblemSolvingTechC/tree/main/Week3/LAB_comb_count_dynamic_allo/main.c)|
 
+
 ### WEEK5 - 뽑기(조합, 중복조합, 순열, 중복순열)
 |주차|분류|문제|알고리즘|코드|
 |---|---|---|---|---|
 |WEEK5|LAB|뽑기-공뽑기|조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/LAB_ball_selection_1/main.c)|
+|WEEK5|LAB|뽑기-연기상|순열|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/LAB_acting_prize/main.c)|
+|WEEK5|LAB|뽑기-인기상|조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/LAB_popularity_prize/main.c)|
+|WEEK5|HW|뽑기-4진수|중복순열|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_quaternery/main.c)|
+|WEEK5|HW|뽑기-수식나열|중복순열|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_formula_list/main.c)|
+|WEEK5|LAB|뽑기-세배돈|중복조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_new_year_money/main.c)|

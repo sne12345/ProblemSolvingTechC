@@ -30,3 +30,15 @@
 |WEEK5|HW|뽑기-4진수|중복순열|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_quaternery/main.c)|
 |WEEK5|HW|뽑기-수식나열|중복순열|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_formula_list/main.c)|
 |WEEK5|LAB|뽑기-세배돈|중복조합|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week5-1/HW_new_year_money/main.c)|
+
+
+### WEEK6 - 정렬(선택,삽입,버블정렬)
+|주차|분류|문제|알고리즘|코드|
+|---|---|---|---|---|
+|WEEK6|LAB|1차원동적할당|동적할당|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/LAB_1D_dynamic_allo/main.c)|
+|WEEK6|LAB|selection sort|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/LAB_selection/main.c)|
+|WEEK6|HW|selection sort|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/HW_selection/main.c)|
+|WEEK6|LAB|bubble sort|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/LAB_bubble_sort/main.c)|
+|WEEK6|HW|bubble sort|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/HW_bubble/main.c)|
+|WEEK6|HW|bubble sort(개선된 버전)|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/HW_bubble_improve/main.c)|
+|WEEK6|LAB|insertion sort|정렬|[C](https://github.com/sne12345/ProblemSolvingTechC/blob/main/Week6/LAB_insertionSort/main.c)|
